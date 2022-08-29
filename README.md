@@ -1,4 +1,4 @@
-# Classificador de sentimentos
+# Classificador de sentimentos (relações públicas)
 
 Entender o que as pessoas estão comentando sobre os produtos da Amazon.
 
@@ -8,29 +8,23 @@ Uma boa ideia para fazer a classificação de comentários das redes sociais, é
 
 **One-Hot-Encoding** serve para criar diversas colunas com todas categorias existentes e atribuir valores binários para as suas respectivas classificações. Por exemplo:
 
-<center>
-
-![](/relacoes_publicas/images/img1.png)
-
-</center>
+<p align="center">
+  <img width="178" height="138" src="/relacoes_publicas/images/img1.png">
+</p>
 
 Ao invés de criar diversas classificações como fora feito a seguir:
 
-<center>
-
-![](images/img2.png)
-
-</center>
+<p align="center">
+  <img width="179" height="141" src="/relacoes_publicas/images/img2.png">
+</p>
 
 É criado diversas colunas com valores binários:
 
-<center>
+<p align="center">
+  <img width="600" height="144" src="/relacoes_publicas/images/img3.png">
+</p>
 
-![](images/img3.png)
-
-</center>
-
-## Tokenização (Count vectorizer)
+#### Tokenização (Count vectorizer)
 
 Transformar letras em números para depois prassar para o algoritmo realizar o treinamento.
 
