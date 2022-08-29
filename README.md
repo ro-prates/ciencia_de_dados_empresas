@@ -10,7 +10,7 @@ Uma boa ideia para fazer a classificação de comentários das redes sociais, é
 
 <center>
 
-![](images/img1.png)
+![](/relacoes_publicas/images/img1.png)
 
 </center>
 
